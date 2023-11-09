@@ -1,0 +1,35 @@
+.box{
+    font-size: 3em;
+    height: 80px;
+    width: 80px;
+    background-color: black;
+    border: white 1px solid;
+    border-radius: 2px;
+    
+}
+
+.box:hover{
+    box-shadow: 0 0 18px gray;
+}
+
+.x{
+    color: aqua;
+}
+
+
+.o{
+    color: red;
+}
+
+.o:hover{
+    box-shadow: 0 0 18px red;
+    color: white;
+  
+}
+
+
+.x:hover{
+    box-shadow: 0 0 18px aqua;
+    color: white;
+  
+}
